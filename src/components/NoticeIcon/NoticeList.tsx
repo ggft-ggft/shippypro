@@ -57,7 +57,7 @@ const NoticeList: React.SFC<NoticeIconTabProps> = ({
           // eslint-disable-next-line no-nested-ternary
           const leftIcon = item.avatar ? (
             typeof item.avatar === 'string' ? (
-              <Avatar className={styles.avatar} src={item.avatar} />
+              <span className={styles.iconElement}>{item.avatar}</span>
             ) : (
               <span className={styles.iconElement}>{item.avatar}</span>
             )
