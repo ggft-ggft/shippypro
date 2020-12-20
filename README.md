@@ -3,4 +3,4 @@
 ### File di interesse
 - src/models/flight.ts
 - src/pages/Shippy/index.tsx
-- src/services/flight.tslugins;
+- src/services/flight.ts;
