@@ -16,6 +16,4 @@ $ npm install
 $ npm run dev
 ```
 
-Installa le dipendenze e lancia il server in locale
-
 il server gira su [http://localhost:8000/](http://localhost:8000/)
